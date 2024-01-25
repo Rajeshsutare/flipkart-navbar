@@ -1,0 +1,44 @@
+header{
+    width: 100vw;
+}
+nav img{
+margin-left: 50px;
+}
+#navbarSupportedContent ul li a{
+color: #fff;
+}
+
+.bg-dark{
+    margin-left: -75px;
+}
+
+#navbarSupportedContent ul li a:focus,
+#navbarSupportedContent ul li a:hover{
+    background-color: orange;
+}
+
+
+/* @media all and (max-width:600px){
+    .navbar-collapse {
+        -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        -ms-flex-align: center;
+        margin-left: 70%;
+        align-items: center;
+    }
+
+}
+@media all and (max-width:992px){
+    .navbar-collapse {
+        -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        -ms-flex-align: center;
+        margin-left: 70%;
+        align-items: center;
+    }
+} */
+
